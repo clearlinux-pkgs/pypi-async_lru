@@ -1,5 +1,5 @@
 PKG_NAME := pypi-async_lru
-URL = https://files.pythonhosted.org/packages/80/e2/2b4651eff771f6fd900d233e175ddc5e2be502c7eb62c0c42f975c6d36cd/async-lru-2.0.4.tar.gz
+URL = https://files.pythonhosted.org/packages/b2/4d/71ec4d3939dc755264f680f6c2b4906423a304c3d18e96853f0a595dfe97/async_lru-2.0.5.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
